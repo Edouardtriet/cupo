@@ -159,8 +159,3 @@ st.markdown('<div style="background-color:#e8f5e9;padding:10px;text-align: cente
             '</div>', unsafe_allow_html=True)
 
 
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/Edouardtriet/cupo.git
-git push -u origin main
